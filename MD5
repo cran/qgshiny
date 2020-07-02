@@ -1,0 +1,11 @@
+cf4f244326adb7a09fb421f09387ff28 *DESCRIPTION
+2e6c45119e6c5fdec890aedce0108707 *LICENSE
+cff00762f7146e9ff2ce2afc1b0d4c8e *NAMESPACE
+808482a32bc65c07210d0d4c36d9af59 *R/runExample.R
+8f0f80242dd14dcc14b364dbdbe9019e *README.md
+7c20161db0ccb7cc3a1abfe0daeecd14 *inst/shiny-examples/app/DESCRIPTION
+be241d581794052292f333dc724cf17a *inst/shiny-examples/app/server.R
+b1edf5c3ac97383143c45aebd6ed7b2e *inst/shiny-examples/app/source.R
+84f2706b2f6a3b2c79c6682e9a3e6071 *inst/shiny-examples/app/theory.html
+6dadd3002f4abd58dd77c21525aa51c3 *inst/shiny-examples/app/ui.R
+363a3d0380d36a4109a3462190fe6828 *man/run_qgshiny.Rd
